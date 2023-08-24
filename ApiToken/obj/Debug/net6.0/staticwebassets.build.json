@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5mZFV0B0anELqA8CjadoI7VCSaW4iiJ29ZdztfvclTs=",
+  "Source": "ApiToken",
+  "BasePath": "_content/ApiToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

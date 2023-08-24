@@ -1,0 +1,17 @@
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Service.deps.json
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Service.dll
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Service.pdb
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Core.dll
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Repository.dll
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Core.pdb
+C:\Users\rafay\source\repos\ApiToken\App.Service\bin\Debug\net6.0\App.Repository.pdb
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.csproj.AssemblyReference.cache
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.AssemblyInfoInputs.cache
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.AssemblyInfo.cs
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.csproj.CoreCompileInputs.cache
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.csproj.CopyComplete
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.dll
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\refint\App.Service.dll
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\App.Service.pdb
+C:\Users\rafay\source\repos\ApiToken\App.Service\obj\Debug\net6.0\ref\App.Service.dll
